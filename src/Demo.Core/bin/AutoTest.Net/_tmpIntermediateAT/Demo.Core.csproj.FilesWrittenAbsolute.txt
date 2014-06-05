@@ -1,0 +1,5 @@
+/home/ack/src/tmp/NDCDEMO/src/Demo.Core/bin/AutoTest.Net/_tmpIntermediateAT/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/ack/src/tmp/NDCDEMO/src/Demo.Core/bin/AutoTest.Net/Demo.Core.dll.mdb
+/home/ack/src/tmp/NDCDEMO/src/Demo.Core/bin/AutoTest.Net/Demo.Core.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo.Core/bin/AutoTest.Net/_tmpIntermediateAT/Demo.Core.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo.Core/bin/AutoTest.Net/_tmpIntermediateAT/Demo.Core.dll.mdb

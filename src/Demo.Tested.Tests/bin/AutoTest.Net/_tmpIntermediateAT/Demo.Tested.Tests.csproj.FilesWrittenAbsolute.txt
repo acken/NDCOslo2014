@@ -1,0 +1,8 @@
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/_tmpIntermediateAT/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/Demo.Tested.Tests.dll.mdb
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/Demo.Tested.Tests.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/_tmpIntermediateAT/Demo.Tested.Tests.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/_tmpIntermediateAT/Demo.Tested.Tests.dll.mdb
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/nunit.framework.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/Demo.Tested.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo.Tested.Tests/bin/AutoTest.Net/Demo.Tested.dll.mdb

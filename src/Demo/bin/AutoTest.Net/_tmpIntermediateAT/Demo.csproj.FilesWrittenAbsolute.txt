@@ -1,0 +1,9 @@
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/_tmpIntermediateAT/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/Demo.exe.mdb
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/Demo.exe
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/_tmpIntermediateAT/Demo.exe
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/_tmpIntermediateAT/Demo.exe.mdb
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/Nancy.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/Nancy.Hosting.Self.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/Demo.Core.dll
+/home/ack/src/tmp/NDCDEMO/src/Demo/bin/AutoTest.Net/Demo.Core.dll.mdb
