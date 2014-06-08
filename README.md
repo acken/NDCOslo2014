@@ -5,7 +5,7 @@ NDCOslo2014
 
 To set up OpenIDE the way I had it set up in the talk do the following
 
-1.<p>
+1.<br>
 Install OpenIDE and set up editor by going through this<br>
 https://github.com/continuoustests/OpenIDE/wiki/Installing
 
