@@ -21,3 +21,6 @@ Clone this repository
 Install my basic C# plugin packages<br>
 Go to the root of this repository and run this command<br>
 oi package install ack-essentials-c-sharp -g
+
+5.<br>
+Start the editor by running for instance oi editor sublime
