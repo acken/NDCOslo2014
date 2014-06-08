@@ -24,3 +24,6 @@ oi package install ack-essentials-c-sharp -g
 
 5.<br>
 Start the editor by running for instance oi editor sublime
+
+6.<br>
+Fresh new playground https://groups.google.com/forum/#!forum/openide
