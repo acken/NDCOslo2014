@@ -12,7 +12,14 @@ https://github.com/continuoustests/OpenIDE/wiki/Installing
 2.<br>
 Install this to get my basic packages set up<br>
 oi package install C-Sharp-AT -g<br>
-oi package install ack-essentials -g
+oi package install ack-www -g<br>
+oi package install contextual-tampering -g<br>
+oi package install edit-oi-scripts -g<br>
+oi package install goto -g<br>
+oi package install init-sublime -g<br>
+oi package install sources -g<br>
+oi package install tryout -g<br>
+oi package install typesearch-extension -g
 
 3.<br>
 Clone this repository
@@ -20,7 +27,9 @@ Clone this repository
 4.<br>
 Install my basic C# plugin packages<br>
 Go to the root of this repository and run this command<br>
-oi package install ack-essentials-c-sharp -g
+oi package install c-sharp-add-using -g<br>
+oi package install c-sharp-create-tested -g<br>
+oi package install c-sharp-editor-create -g
 
 5.<br>
 Start the editor by running for instance oi editor sublime
